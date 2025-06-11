@@ -1,0 +1,35 @@
+{
+    "Master Assets": {
+        "Company Logo": [],
+        "Marketing Materials": [],
+        "Master Materials": [],
+        "Master Textures": [],
+        "Master Assets": []
+    },
+    "naming_conventions": {
+        "Static Meshes": {
+            "prefix": "SM_",
+            "suffix": ""
+        },
+        "Textures": {
+            "prefix": "T_",
+            "suffixes": {
+                "Diffuse": "_D",
+                "Rough": "_R",
+                "Normal": "_N",
+                "Alpha": "_A",
+                "Emissive": "_E",
+                "Metallic": "_M",
+                "Specular": "_S"
+            }
+        },
+        "Simulations": {
+            "prefix": "SIM_",
+            "suffix": ""
+        },
+        "Flipbooks": {
+            "prefix": "FB_",
+            "suffix": ""
+        }
+    }
+}
